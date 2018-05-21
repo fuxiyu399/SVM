@@ -12,7 +12,7 @@ SVM - Support Vector Machine：支持向量机，其含义是通过支持向量�
 f(x) = xw^T + b
 w 和 b 是训练数据后产生的值。
 KTT条件
- ！[iamge](https://github.com/fuxiyu399/SVM/blob/master/b.png)
+ ![image](https://github.com/fuxiyu399/SVM/blob/master/b.png)
  ![image](https://github.com/fuxiyu399/SVM/blob/master/c.png)
  ![image](https://github.com/fuxiyu399/SVM/blob/master/d.png)
  
